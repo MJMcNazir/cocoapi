@@ -14,3 +14,26 @@ PythonAPI/pycocotools/_mask.so
 PythonAPI/pycocotools/coco.pyc
 PythonAPI/pycocotools/cocoeval.pyc
 PythonAPI/pycocotools/mask.pyc
+
+# generated outputs
+*.mp4
+*.csv
+*.npy
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# local environments
+.venv/
+venv/
+.env
+
+# editor settings
+.vscode/
+
+# caches
+.cache/
